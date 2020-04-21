@@ -25,6 +25,8 @@ namespace Course
 
             Console.WriteLine("NUMBER = " + X);
             Console.WriteLine("SALARY = U$ " + salarioFinal.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("NUMBER = " + X);
+            Console.WriteLine("SALARY = U$ " + salarioFinal.ToString("F2", CultureInfo.InvariantCulture));
 
 
             Console.ReadLine();
